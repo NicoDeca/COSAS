@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,300&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    background-color: #08e7b3;
+    background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #e5e5f7 4px ), repeating-linear-gradient( #d3fff255, #d3fff2 );
+
+}
+#titulo{
+    color: rgb(171, 0, 0);
+    font-size: 3rem;
+}
+#lees{
+    color:rgb(28 81 112);
+    font-size: 2rem;
+}
